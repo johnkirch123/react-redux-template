@@ -1,10 +1,8 @@
 import React, { Component } from "react";
 
-import "./App.css";
-
 class App extends Component {
   render() {
-    return <div className="App" />;
+    return <div>This is my new App!</div>;
   }
 }
 
